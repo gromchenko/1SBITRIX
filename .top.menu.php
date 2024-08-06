@@ -1,0 +1,67 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Главная", 
+		"/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Наша команда", 
+		"/about", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Услуги", 
+		"/services", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Стоимость услуг", 
+		"/price", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Регистрация", 
+		"/reg", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Авторизация", 
+		"/auth", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Личный кабинет", 
+		"/panel", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Выход", 
+		"http://grom12bl.beget.tech/logoutuser?logout=yes&sessid=30b8583aa5988167a93bf21b0a481e4e", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Вход для админа", 
+		"/bitrix", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
